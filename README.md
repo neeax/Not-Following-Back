@@ -40,10 +40,6 @@ python3 -m http.server 8080
 
 Then open http://localhost:8080. You can also open `index.html` directly, but offline mode and installing will not be available.
 
-## Put it online (free)
-
-Upload the whole folder to any static host, for example GitHub Pages, Netlify, Vercel or Cloudflare Pages. No build step is needed.
-
 ## Install on your phone
 
 - **Android (Chrome):** menu -> Install app.
